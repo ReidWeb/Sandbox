@@ -14,6 +14,7 @@ Bubble sort works by running along the dataset, and comparing the items of data 
 
 #### bubbleSort
 A method to sort an array of integers using a bubble sort algorithm.
+##### Examplary method reference (Java)
 ```java
 public static int[] bubbleSort(int[] arrayInts)
 ```
@@ -27,6 +28,7 @@ the sorted array of integers
 
 #### generateRandomArray
 A utility method to generate a random data set of integers, which can then be sorted.
+##### Examplary method reference (Java)
 ```java
 public static int[] generateRandomArray(int intNumItems)
 ```
@@ -40,6 +42,7 @@ a randomly generated data set of integers
 
 #### outArray
 A utility method to generate a string output of an array
+##### Examplary method reference (Java)
 ```java
 public static java.lang.String outArray(int[] arrayData)
 ```
@@ -53,6 +56,7 @@ a comma delimited string output of the array
 
 #### bubbleSortTestRun
 A utility method to run tests for the bubble sort method.
+##### Examplary method reference (Java)
 ```java
 public static void bubbleSortTestRun()
 ```
