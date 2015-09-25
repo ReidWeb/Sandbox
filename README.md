@@ -1,4 +1,4 @@
-# Java-Sandbox
+# Sandbox
 A collection of miscellaneous practice projects in various languages.
 
 ## Index
