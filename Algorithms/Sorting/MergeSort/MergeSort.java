@@ -4,7 +4,6 @@ import java.util.Scanner;
 /**
  * A merge sort algorithm for practice at using/implementing algorithms in Java.
  * <p>
- * <p>
  * This implementation of merge sort is for sorting an array of integer data. There are utlity methods included to
  * help with the process of demonstrating the class.
  * </p>
